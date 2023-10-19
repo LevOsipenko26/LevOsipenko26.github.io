@@ -1,0 +1,10 @@
+h1 {color: red;}
+button {background-color: rgb(255, 0, 0);}
+button {
+    border: 2px solid blue;
+}
+p {
+    width: 25%;
+    padding: 20 px;
+    border: 2px solid blue;
+}
